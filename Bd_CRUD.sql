@@ -61,7 +61,7 @@ INSERT INTO Idioma(Idioma) VALUES ('Coreano');
 INSERT INTO Pelicula(Titulo, IdGenero, IdIdioma, año) VALUES ('Titanic','1','1','1997');
 INSERT INTO Pelicula(Titulo, IdGenero, IdIdioma, año ) VALUES ('Chucky 2','4','2','1990');
 INSERT INTO Pelicula(Titulo, IdGenero, IdIdioma, año) VALUES ('Pasante de moda','3','1','2015');
-INSERT INTO Pelicula(Titulo, IdGenero, IdIdioma, año) VALUES ('busqueda implacable','2','3','2008');
+INSERT INTO Pelicula(Titulo, IdGenero, IdIdioma, año) VALUES ('Busqueda implacable','2','3','2008');
 
 INSERT INTO Alquiler(IdCliente, IdPelicula, Fecha_Alquiler, Fecha_Devolucion, Precio_Alquiler) VALUES ('1','4','2021-11-25','2021-11-27','15.50');
 INSERT INTO Alquiler(IdCliente, IdPelicula, Fecha_Alquiler, Fecha_Devolucion, Precio_Alquiler) VALUES ('2','2','2021-11-29','2021-11-30','10.00');
